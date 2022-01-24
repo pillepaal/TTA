@@ -2,7 +2,7 @@ import random
 
 random_generated_number = random.randint(1, 10)
 
-# I used the following line to check the number in advance and 
+# I used the following line to check the number in advance and make sure code works
 # print (int(random_generated_number))
 
 name = input('Hello! What is your name? ')
