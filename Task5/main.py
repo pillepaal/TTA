@@ -17,7 +17,7 @@ elif choice == 'd':
 elif choice == 'c':
     result = num1 / num2
     print(result)
-1
+
 else:
     print("Input character is not recognized!")
 
